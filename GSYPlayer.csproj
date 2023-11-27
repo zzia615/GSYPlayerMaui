@@ -7,16 +7,16 @@
     <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
     <Title>GSYPlayerMaui</Title>
     <Authors>jaylosy</Authors>
+    <Version>1.0.1</Version>
     <Description>maui-gsyvideoplayer安卓绑定库，安卓项目URLhttps://github.com/CarGuo/GSYVideoPlayer</Description>
   </PropertyGroup>
   <ItemGroup>
     <None Remove="GSYIjkJava-1.0.0.aar" />
     <None Remove="gsyvideoplayer-androidvideocache-v8.5.0-release-jitpack.aar" />
     <None Remove="gsyVideoPlayer-arm64-v8.5.0-release-jitpack.aar" />
-    <None Remove="gsyVideoPlayer-armv7a-v8.5.0-release-jitpack.aar" />
     <None Remove="gsyVideoPlayer-base-v8.5.0-release-jitpack.aar" />
+    <None Remove="gsyVideoPlayer-ex_so-v8.5.0-release-jitpack.aar" />
     <None Remove="gsyVideoPlayer-java-v8.5.0-release-jitpack.aar" />
     <None Remove="gsyVideoPlayer-x64-v8.5.0-release-jitpack.aar" />
-    <None Remove="gsyVideoPlayer-x86-v8.5.0-release-jitpack.aar" />
   </ItemGroup>
 </Project>
